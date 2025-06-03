@@ -24,3 +24,6 @@ Trained and evaluated the following models:
 - SE block to enhance channel-wise attention
 - Early stopping and model checkpointing
 - Detailed evaluation: classification reports, confusion matrices
+
+## Training Process
+![Image](https://github.com/user-attachments/assets/4ccc9cb3-c13c-4d97-8c9c-b5386218e590)
